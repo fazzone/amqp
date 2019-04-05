@@ -34,7 +34,7 @@ defmodule AMQP.Mixfile do
       # https://github.com/pma/amqp/issues/78
       {:goldrush, "~> 0.1.0"},
       {:jsx, "~> 2.9"},
-      {:lager, "~> 3.6.5"},
+      {:lager, "~> 3.6.9"},
       {:ranch, "~> 1.7"},
       {:recon, "~> 2.3.6"},
 
